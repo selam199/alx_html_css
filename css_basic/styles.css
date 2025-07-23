@@ -11,6 +11,21 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  background-color: #f0f4f8; /* soft light blue */
+  color: #333333; /* dark gray text */
+}
+/* Links */
+a {
+  color: #0077cc; /* bright blue */
+  text-decoration: none;
+}
+a:hover {
+  color: #112838; /* darker blue on hover */
+  text-decoration: underline;
+}
+/* Text shadow for headings */
+h1, h2 {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
 /* Make <main> a flex container arranged in a row */
@@ -25,6 +40,11 @@ article {
   flex: 2;
   overflow-y: auto;
   padding: 1rem;
+  border: 2px solid #0077cc;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* <aside> takes 1/3 of the width */
@@ -32,10 +52,21 @@ aside {
   flex: 1;
   overflow-y: auto;
   padding: 1rem;
+  border: 2px solid #0077cc;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.logo {
+  font-size: 2em; /* bigger size */
+  color: #ff6600; /* some standout color */
+  padding-right: 10px;
 }
 
 /* Optional styling for header and footer */
 header, footer {
   padding: 1rem;
   background-color: #f1f1f1;
+  background: linear-gradient(90deg, #005fa3, #0077cc);
+  color: white;
 }
