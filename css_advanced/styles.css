@@ -256,3 +256,40 @@ body {
 .highlights{
     color: #D8D8D8;
 }
+
+/* Membership section */
+
+.membership-section {
+    padding: 6rem 2rem;
+    text-align: center;
+    background-color: #071629;
+    color: white;
+}
+.membership-section h2 {
+    font-size: 2.2rem;
+    margin-bottom: 4rem;
+    font-weight: 600;
+}
+.membership-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-width: 80rem;
+    margin: 0 auto 3rem;
+}
+.membership-block {
+    width: 18rem;
+    padding: 2rem;
+}
+.membership-block img {
+    width: 3rem;
+    height: 3rem;
+    margin-bottom: 1rem;
+
+}
+.membership-block p {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+

@@ -81,3 +81,14 @@ To run this project locally:
   - Author info
   - 5-star rating and duration
 - Mobile-friendly design with wrapping behavior
+
+# 🌟 Free Membership Section
+
+This project implements a responsive "Free Membership" section using HTML and CSS. It features four membership benefit blocks and a call-to-action button for user registration.
+## 🚀 Features
+
+- Eye-catching section title with a highlighted word
+- Four informative blocks showcasing membership benefits
+- Reusable layout structure using CSS Flexbox
+- "Register For Free" button to encourage signups
+- Mobile-responsive design
