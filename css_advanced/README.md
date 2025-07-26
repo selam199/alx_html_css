@@ -103,3 +103,14 @@ This section is a Frequently Asked Questions (FAQ) component built using HTML an
 - 📖 Each FAQ includes a question and a detailed answer
 - 🎯 Clean and readable design, ideal for any landing page or help center
 - 💡 Easily extendable for additional questions
+
+# SmileSchool Footer Component
+
+The footer component provides consistent branding, copyright information, and social media links across all pages of the SmileSchool website. Built with accessibility and responsiveness in mind.
+## Features
+
+✅ **Responsive Design** - Adapts seamlessly to all screen sizes  
+✅ **Social Media Integration** - Font Awesome icons with hover effects  
+✅ **Dynamic Copyright** - 
+✅ **Accessibility Compliant** 
+✅ **Performance Optimized** - Minimal CSS footprint  
