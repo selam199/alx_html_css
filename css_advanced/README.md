@@ -72,3 +72,12 @@ To run this project locally:
 - Creates a horizontal flex layout
 - Centers the content and controls width
 - Adds space between avatar and quote text
+
+# 🎬 Video Tutorial Section - Responsive Flex Layout
+- Responsive layout using Flexbox
+- Each video block includes:
+  - Thumbnail with play icon
+  - Title and description
+  - Author info
+  - 5-star rating and duration
+- Mobile-friendly design with wrapping behavior
