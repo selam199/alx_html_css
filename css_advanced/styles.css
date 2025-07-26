@@ -22,7 +22,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 7rem;
+    padding: 1.5rem 7.5rem;
     position: relative;
     width: 100%;
 }
@@ -55,7 +55,7 @@ body {
 .banner-section {
     text-align: center;
     color: #fff;
-    padding-top: 10rem;
+    
 }
 .main-wrapper {
     color: #000;
@@ -133,4 +133,23 @@ body {
   color:white;
   cursor: pointer;
   padding-bottom: 3rem;
+}
+/* Quote section */
+.quote-section {
+    background-color: #C271FF;
+    padding: 6rem 2rem;
+}
+
+.quote-block {
+    display: flex;
+    align-items: center;
+    max-width: 60rem;
+    margin: 0 auto;
+    gap: 3rem;
+    color: white;
+}
+
+.quote-text {
+    color: #FFFFFF;
+    font-size: 0.9rem;
 }

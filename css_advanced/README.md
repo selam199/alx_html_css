@@ -50,3 +50,25 @@ To run this project locally:
    ```bash
    git clone https://github.com/yourusername/alx_html_css.git
    cd alx_html_css/css_advanced
+
+# 💬 Quote Section Styles
+- **Background Styling**
+  - Uses a distinctive purple (`#C271FF`) background to highlight the section.
+- **Flexbox Layout**
+  - The `.quote-block` class uses `display: flex` to horizontally align quote text and images.
+- **Typography**
+  - White text with bold author names
+  - Smaller font size for quotes for visual hierarchy
+- **Responsive Alignment**
+  - Uses `max-width` and `margin: auto` for center alignment and layout control
+---
+## 🔤 CSS Classes Explained
+
+### `.quote-section`
+- Sets the section background color
+- Adds padding for spacing above and below
+
+### `.quote-block`
+- Creates a horizontal flex layout
+- Centers the content and controls width
+- Adds space between avatar and quote text
