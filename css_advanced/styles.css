@@ -293,3 +293,39 @@ body {
     color: rgba(255, 255, 255, 0.7);
 }
 
+/* FAQ section */
+
+.faq-section {
+    padding: 6rem 20rem;
+    text-align: center;
+    background-color: white;
+}
+.faq-section h2 {
+    font-size: 2.2rem;
+    margin-bottom: 4rem;
+    font-weight: 5;
+}
+.faq-container {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+.faq-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 6rem;
+}
+.faq-item {
+    flex: 1;
+    text-align: left;
+}
+.faq-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #071629;
+}
+.faq-item p {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.8;
+}

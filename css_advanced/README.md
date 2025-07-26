@@ -92,3 +92,14 @@ This project implements a responsive "Free Membership" section using HTML and CS
 - Reusable layout structure using CSS Flexbox
 - "Register For Free" button to encourage signups
 - Mobile-responsive design
+
+# FAQ Section - HTML & CSS
+
+This section is a Frequently Asked Questions (FAQ) component built using HTML and styled with CSS. It provides users with quick answers to common questions about the platform, product, or service.
+
+## Features
+
+- 📌 Responsive grid layout with two rows of FAQs
+- 📖 Each FAQ includes a question and a detailed answer
+- 🎯 Clean and readable design, ideal for any landing page or help center
+- 💡 Easily extendable for additional questions
