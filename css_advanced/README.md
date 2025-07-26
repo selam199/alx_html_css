@@ -27,3 +27,26 @@ This folder (`css_advanced`) contains:
 
 ---
 
+## 🧩 Features
+
+- Responsive layout using **flexbox**
+- Custom fonts from **Google Fonts** (`Source Sans Pro`)
+- Styled navigation and hero sections
+- Background image with full-screen height
+- Highlighted text spans for emphasis (`SMILES`, `GRIN`, `LAUGH`)
+- Accessible and clean HTML5 structure
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3 (Flexbox, custom fonts, text transforms)**
+---
+
+## 📥 Setup Instructions
+
+To run this project locally:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/alx_html_css.git
+   cd alx_html_css/css_advanced
