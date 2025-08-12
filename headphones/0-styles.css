@@ -7,7 +7,6 @@
 body,
 html {
   font-family: 'Arial', sans-serif;
-  height: 100%;
 }
 
 /* Navbar */
@@ -46,20 +45,19 @@ html {
   color: #ff5f7e;
 }
 
-/* Hero Section */
-.hero {
+/*What we do */
+.What-we-do {
   background-image: url('images/headphones_hero_1.jpg');
-  /* hero background */
   background-size: cover;
-  background-position: center;
   max-width: 100%;
-  height: 100vh;
-  position: relative;
+  min-height: 100vh;
+  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
   padding-top: 345px;
-  padding-bottom: -645px;
+  
+
 }
 
 .overlay {
@@ -74,7 +72,7 @@ html {
   text-align: center;
   color: #fff;
   max-width: 700px;
-  padding: 20px;
+ 
 }
 
 .content h1 {
@@ -86,7 +84,7 @@ html {
 .content h2 {
   font-size: 1rem;
   font-weight: normal;
-  margin-bottom: 4rem;
+  margin-bottom: 10rem;
 }
 
 .btn {
@@ -108,13 +106,14 @@ html {
   /* small lift effect */
   background-color: #e94e6e;
 }
-
 .content p {
-  margin: 5rem 5rem 15rem 5rem;
+  margin: 15rem 5rem 5rem 5rem;
   font-size: 0.9rem;
   line-height: 1.6;
   text-align: center;
+  width: 600px;
 }
+
 
 .menu-toggle {
   font-size: 2rem;
@@ -135,12 +134,12 @@ html {
     gap: 1rem;
   }
 
-  .hero h1 {
+  .What-we-do h1 {
     font-size: 1.8rem;
     text-align: center;
   }
 
-  .hero h2 {
+  .What-we-do h2 {
     font-size: 1.2rem;
   }
 }
